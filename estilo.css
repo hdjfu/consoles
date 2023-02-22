@@ -70,3 +70,6 @@ img{
     width: 100%;
     border-radius: 10px;
 }
+@media (max-width: 700px) {
+    .menu li a{ font-size: 15px; }
+}
